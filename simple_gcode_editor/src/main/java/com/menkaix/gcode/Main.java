@@ -1,4 +1,4 @@
-package com.menkaix.simple_gcode_editor;
+package com.menkaix.gcode;
 
 
 /**
