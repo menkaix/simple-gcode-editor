@@ -1,6 +1,8 @@
 package com.menkaix.cnc;
 
-public interface Engravable {
+import com.menkaix.jometry.drawable.Drawable;
+
+public interface Engravable extends Drawable {
 	
 	public String getPath() ;
 
